@@ -1,12 +1,17 @@
-### Hello, i'm Maycon! 👋
+### Hello, sejam bem vindos ao meu GitHub! 👋
 
 
-Something about me:
+Um pouco sobre mim:
 
-- 👨🏻‍💻I'm a system analyst, who love Java, CSharp, Android. ...
-- 📚Passionate about books. ...
-- 🏍️ I loves motorcycle. ...
-- 🧗🏻and I love extreme sports ...
+Meu nome é Maycon, sou Agile Master e apaixonado por tecnologia.
+
+- 💡  Atuo diariamente como Scrum Master em uma empresa de software.
+- 👨🏻‍💻 Nos tempos livres trabalho como desenvolvedor utilizando Java, C#, entre outras linguagens.
+- 📚 Sou apaixonado por leitura e coleciono vários livros rs.
+- 🏍️ Amo andar de moto.
+- 🧗🏻 Gosto de caminhar na natureza, subir montanhas, saltar de paraquedas..
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayconLSilva&theme=github_dark)
 
  <div>
   <a href="https://github.com/MayconLSilva">
@@ -25,7 +30,7 @@ Something about me:
 </div>
 
 ##
-<div>   
+<div>  
   <a href="https://www.instagram.com/mayconsilva_cp/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/Mayconsilva_cp" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   	<a href="https://www.linkedin.com/in/mayconsilva-cp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
