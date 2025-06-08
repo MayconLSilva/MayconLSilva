@@ -5,7 +5,7 @@ Um pouco sobre mim:
 
 Meu nome é Maycon, sou Agile Master e apaixonado por tecnologia.
 
-- 💡  Atuo diariamente como agilista em uma multinacional Brasileira.
+- 💡  Atuo diariamente como Release Train Engineer (RTE) na Petrobras.
 - 👨🏻‍💻 Nos tempos livres trabalho como desenvolvedor utilizando Java, C#, entre outras linguagens.
 - 📚 Sou apaixonado por leitura e coleciono vários livros rs.
 - 🏍️ Amo andar de moto.
